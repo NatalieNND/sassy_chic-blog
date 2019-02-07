@@ -6,6 +6,12 @@ body {
   font-size: 25px;
 }
 
+nav {
+  word-spacing: 20px;
+  background-color: crimson;
+  text-align: center;
+}
+
 header {
   text-align: center;
   color: red;
@@ -15,6 +21,32 @@ header {
 
 a {
   color: #00B7FF;
+}
+
+img {
+  width: 400px;
+  height: 500px;
+}
+
+.pics {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  /* padding-left: 90px; */
+  padding-right: 30px;
+  grid-gap: 50px;
+}
+
+.links {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding-left: 190px;
+}
+
+.snippets {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 30px;
+  font-size: 15px;
 }
 
 
