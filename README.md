@@ -31,7 +31,7 @@
 #Authors
  -All rights reserved Natalie Daniels 2019
  
- -Live Link :https://nataliennd.github.io/sassy_chic-blog/
+ -Live Link : http://blog-blogs.1d35.starter-us-east-1.openshiftapps.com/
 
 
 
